@@ -1,0 +1,9 @@
+.menu-container{
+    display: flex;
+    list-style: none;
+
+    &__menu-item{
+        padding: 0px 10px;
+    }
+}
+

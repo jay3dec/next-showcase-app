@@ -105,3 +105,9 @@ a {
     color-scheme: dark;
   }
 }
+
+.btn{
+  height: 30px;
+  width: 100px;
+  background-color: white;
+}

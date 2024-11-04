@@ -1,0 +1,11 @@
+.search{
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    width: 300px;
+}
+
+.search:focus{
+    outline: none;
+    padding-left: 10px;
+}
